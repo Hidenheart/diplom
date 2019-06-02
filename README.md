@@ -1,2 +1,2 @@
 # diplom
-VK-api, Elastisearch, Kibana
+Python, VK-api, Elastisearch, Kibana
